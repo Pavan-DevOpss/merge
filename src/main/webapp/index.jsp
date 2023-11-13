@@ -41,8 +41,7 @@ console.log('Welcome to Pavan IT School - Course Information Page');
 </head>
 <body>
     <header>
-        <h1>Pavan IT School</h1>
-        <p>Empowering Your Future in IT</p>
+
     </header>
 
     <section id="course-info">
@@ -55,6 +54,6 @@ console.log('Welcome to Pavan IT School - Course Information Page');
         </ul>
     </section>
 
-    <script src="script.js"></script>
+
 </body>
 </html>
