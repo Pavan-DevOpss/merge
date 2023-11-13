@@ -38,11 +38,6 @@
 <body>
     <header>
         <h1>Welcome to Pavan IT School</h1>
-<<<<<<< HEAD
-        <p>Your Gateway to Azure DevOps Excellence</p>
-=======
-        <h2>Your Gateway to Azure DevOps Excellence</h2>
->>>>>>> 97f707f7a52e2efc322a9b17b56e3d7f32ead054
     </header>
 
     <section>
@@ -66,17 +61,27 @@
 
     <section>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <h2>Branch Merging Strategies</h2>
         <p>
             Learn effective branch merging strategies to streamline your development process. Whether you are merging
             feature branches, hotfixes, or release branches, we provide the best practices to ensure a smooth and
             conflict-free merging experience.
+=======
+        <h2>Merging Two Branches</h2>
+        <p>
+            Learn the best practices of merging two branches in Git with our advanced courses. Whether you're
+            working on feature branches, bug fixes, or release branches, we've got you covered.
+>>>>>>> main
         </p>
     </section>
 
     <section>
+<<<<<<< HEAD
 =======
 >>>>>>> 97f707f7a52e2efc322a9b17b56e3d7f32ead054
+=======
+>>>>>>> main
         <h2>Contact Us</h2>
         <p>
             Have questions or ready to enroll in our Azure DevOps training? Click the button below to get in touch
