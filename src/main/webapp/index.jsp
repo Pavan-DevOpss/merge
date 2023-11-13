@@ -38,7 +38,7 @@
 <body>
     <header>
         <h1>Welcome to Pavan IT School</h1>
-        <h2>Your Gateway to Azure DevOps Excellence</h2>
+        <p>Your Gateway to Azure DevOps Excellence</p>
     </header>
 
     <section>
@@ -58,6 +58,14 @@
             <li>Flexible Learning Options</li>
             <li>Community Support and Networking Opportunities</li>
         </ul>
+    </section>
+
+    <section>
+        <h2>Merging Two Branches</h2>
+        <p>
+            Learn the best practices of merging two branches in Git with our advanced courses. Whether you're
+            working on feature branches, bug fixes, or release branches, we've got you covered.
+        </p>
     </section>
 
     <section>
